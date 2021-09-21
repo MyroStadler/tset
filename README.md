@@ -8,5 +8,5 @@ Ts test repo.
 
 ### Example
 
-1. Compile the example by issuing: `node_modules/.bin/tsc example/*`
+1. Compile the example by issuing: `node_modules/.bin/tsc example/*.ts`
 2. Run `example/hello-world.html` in a browser
